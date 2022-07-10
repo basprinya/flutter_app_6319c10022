@@ -13,7 +13,6 @@ class _LoginUIState extends State<LoginUI> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 232, 231, 231),
       body: Center(
         child: SingleChildScrollView(
           child: Column(

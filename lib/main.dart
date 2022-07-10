@@ -8,6 +8,7 @@ void main(List<String> args) {
       home: LoginUI(),
       theme: ThemeData(
         fontFamily: 'Kanit',
+        backgroundColor: Color.fromARGB(255, 232, 231, 231),
       ),
     ),
   );
